@@ -1,0 +1,20 @@
+---
+title: "Azwad"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I'm Azwad!
+
+* I was born in Bangladesh but my family currently lives in New Hampshire
+
+* I have two cats named Nimbus and Nori
+
+* I like to play video games and make music!
+
+![](https://www.therkildsenlab.com/uploads/8/8/9/7/88970208/published/20221031-160203.jpg?1667265883)
+
+
