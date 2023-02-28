@@ -3,7 +3,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Beth"
+    - text: "Jiawei"
       href: Beth.html
     - text: "Azwad"
       href: Azwad.html 
